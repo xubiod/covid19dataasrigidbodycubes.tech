@@ -1,0 +1,13 @@
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+
+    background-color: #f5f5f5;
+    color: #333;
+
+    /* center the body element */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
